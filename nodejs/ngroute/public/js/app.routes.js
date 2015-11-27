@@ -20,9 +20,13 @@ angular.module('routerRoutes', ['ngRoute'])
                 controller: 'contactController',
                 controllerAs: 'contact'
             });
+
+
+        
+
         // set our app up to have pretty URLS
         $locationProvider.html5Mode(true);
 
 
-        
+
     });
