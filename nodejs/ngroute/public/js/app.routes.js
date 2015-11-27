@@ -24,6 +24,9 @@ angular.module('routerRoutes', ['ngRoute'])
 
 
 
+
+        
+
         // set our app up to have pretty URLS
         $locationProvider.html5Mode(true);
 
