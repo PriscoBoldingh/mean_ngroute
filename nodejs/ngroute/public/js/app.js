@@ -1,7 +1,9 @@
 /**
  * Created by prisco on 24/11/15.
  */
-angular.module('routerApp', ['routerRoutes'])
+angular.module('routerApp', ['routerRoutes', 'ngAnimate'])
+
+//angular.module('routerApp', ['routerRoutes'])
 
 //angular.module('routerApp',[])
 
